@@ -10,7 +10,6 @@ Gosset AI provides the most comprehensive biotech intelligence data in the indus
 
 - [web-research-agent](https://github.com/gosset-ai/web-research-agent) - Python-based agent for web research
 - [mcps](https://github.com/gosset-ai/mcps) - Python library for biotech data analysis
-- [.github](https://github.com/gosset-ai/.github) - Organization profile and templates
 
 ## Features
 
